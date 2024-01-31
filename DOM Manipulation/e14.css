@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+
+}
